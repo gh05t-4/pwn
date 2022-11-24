@@ -1,4 +1,4 @@
-# PWN
+# PWN-THEME
 HTB PWNBOX theme for zsh.
 
 ### <ins>Dependencies</ins>
@@ -8,8 +8,8 @@ ____
 
 ### <ins>Installation</ins>
 ```BASH
-git clone https://github.com/gh05t-4/ZSH-Theme.git
-cd ZSH-Theme/
+git clone https://github.com/gh05t-4/pwn-theme.git
+cd pwn-theme/
 cp pwn.zsh-theme ~/.oh-my-zsh/themes/
 ```
 <br>
