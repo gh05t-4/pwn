@@ -1,4 +1,4 @@
-# ZSH-Theme
+# PWN
 HTB PWNBOX theme for zsh.
 
 ### <ins>Dependencies</ins>
